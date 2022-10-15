@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MrSiby
-- 👀 I’m interested in Python, Django, VueJS
-- 🌱 I’m currently learning VueJS with Django REST Framework
-- 💻 My current project is a portfolio of my other projects
+- 👀 I’m interested in Python, Django, Remix JS
+- 🌱 I’m currently learning Remix with Django REST Framework
+- 💻 My current project is an online store
 - 📫 Reach me on github or email
 
 <!---

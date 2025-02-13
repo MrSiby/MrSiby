@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MrSiby
-- 👀 I’m interested in Python, Django, Remix JS
-- 🌱 I’m currently learning Remix with Django REST Framework
-- 💻 My current project is an online store
+- 👀 I’m interested in Javascript, Python, and Go
+- 🌱 I currently focus on Remix JS, Django Rest Framework, Svelte, and Go
+- 💻 My current project is a website built with Svelte and Prisma, in containers managed by Podman
 - 📫 Reach me on github or email
 
 <!---

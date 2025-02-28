@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MrSiby
-- 👀 I’m interested in Javascript, Python, and Go
-- 🌱 I currently focus on Remix JS, Django Rest Framework, Svelte, and Go
+- 👀 I’m interested in Javascript, Python, Go, and Java
+- 🌱 I currently focus on Remix JS, Django Rest Framework, Svelte, Java, and Go
 - 💻 My current project is a website built with Svelte and Prisma, in containers managed by Podman
 - 📫 Reach me on github or email
 
